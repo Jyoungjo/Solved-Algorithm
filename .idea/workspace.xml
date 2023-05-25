@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49cedf7f-f247-4788-a86c-94132a98ec37" name="변경" comment="feat: 백준 1541 잃어버린 괄호&#10;- BaekJoon1541 추가">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/baekjoon/greedy/BaekJoon1026.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/baekjoon/greedy/BaekJoon2217.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/baekjoon/greedy/BaekJoon5585.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="49cedf7f-f247-4788-a86c-94132a98ec37" name="변경" comment="feat: 백준 13305 주유소&#10;- BaekJoon13305 추가">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/baekjoon/greedy/BaekJoon10610.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,9 +54,9 @@
       <recent name="com.example.baekjoon.greedy" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.BaekJoon2217">
-    <configuration name="BaekJoon1026" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.baekjoon.greedy.BaekJoon1026" />
+  <component name="RunManager" selected="애플리케이션.BaekJoon10610">
+    <configuration name="BaekJoon10162" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.baekjoon.greedy.BaekJoon10162" />
       <module name="algorithm.main" />
       <extension name="coverage">
         <pattern>
@@ -71,8 +68,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekJoon1541" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.baekjoon.greedy.BaekJoon1541" />
+    <configuration name="BaekJoon10610" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.baekjoon.greedy.BaekJoon10610" />
+      <module name="algorithm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.baekjoon.greedy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaekJoon13305" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.baekjoon.greedy.BaekJoon13305" />
+      <module name="algorithm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.baekjoon.greedy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaekJoon1789" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.baekjoon.greedy.BaekJoon1789" />
       <module name="algorithm.main" />
       <extension name="coverage">
         <pattern>
@@ -97,25 +120,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekJoon5585" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.baekjoon.greedy.BaekJoon5585" />
-      <module name="algorithm.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.baekjoon.greedy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.BaekJoon10610" />
+        <item itemvalue="애플리케이션.BaekJoon13305" />
+        <item itemvalue="애플리케이션.BaekJoon10162" />
+        <item itemvalue="애플리케이션.BaekJoon1789" />
         <item itemvalue="애플리케이션.BaekJoon2217" />
-        <item itemvalue="애플리케이션.BaekJoon5585" />
-        <item itemvalue="애플리케이션.BaekJoon1026" />
-        <item itemvalue="애플리케이션.BaekJoon1541" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +139,14 @@
       <option name="presentableId" value="Default" />
       <updated>1684418852842</updated>
       <workItem from="1684418853891" duration="3636000" />
-      <workItem from="1684496841259" duration="8522000" />
+      <workItem from="1684496841259" duration="8730000" />
+      <workItem from="1684674634467" duration="275000" />
+      <workItem from="1684679454275" duration="604000" />
+      <workItem from="1684728286379" duration="62000" />
+      <workItem from="1684744272568" duration="6238000" />
+      <workItem from="1684848799312" duration="6758000" />
+      <workItem from="1684885947028" duration="27000" />
+      <workItem from="1685023321150" duration="5534000" />
     </task>
     <task id="LOCAL-00001" summary="feat: first commit">
       <created>1684422215400</created>
@@ -172,7 +190,56 @@
       <option name="project" value="LOCAL" />
       <updated>1684422348553</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="feat: 변경사항 추가">
+      <created>1684507125128</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1684507125128</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat: 백준 1026 보물&#10;- BaekJoon1026 추가">
+      <created>1684507155299</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1684507155299</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feat: 백준 5585 거스름돈&#10;- BaekJoon5585 추가">
+      <created>1684507183990</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1684507183990</updated>
+    </task>
+    <task id="LOCAL-00010" summary="feat: 백준 2217 로프&#10;- BaekJoon2217 추가">
+      <created>1684507199556</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1684507199556</updated>
+    </task>
+    <task id="LOCAL-00011" summary="feat: 백준 1789 수들의 합&#10;- BaekJoon1789 추가">
+      <created>1684764857376</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1684764857376</updated>
+    </task>
+    <task id="LOCAL-00012" summary="feat: 백준 10162 전자레인지&#10;- BaekJoon10162 추가">
+      <created>1684764891077</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1684764891077</updated>
+    </task>
+    <task id="LOCAL-00013" summary="feat: 백준 13305 주유소&#10;- BaekJoon13305 추가">
+      <created>1684854925512</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1684854925512</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,7 +252,14 @@
     <MESSAGE value="feat: 백준 11047 동전 0&#10;- BaekJoon11047 추가" />
     <MESSAGE value="feat: 백준 1931 회의실 배정&#10;- BaekJoon1931 추가" />
     <MESSAGE value="feat: 백준 1541 잃어버린 괄호&#10;- BaekJoon1541 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 백준 1541 잃어버린 괄호&#10;- BaekJoon1541 추가" />
+    <MESSAGE value="feat: 변경사항 추가" />
+    <MESSAGE value="feat: 백준 1026 보물&#10;- BaekJoon1026 추가" />
+    <MESSAGE value="feat: 백준 5585 거스름돈&#10;- BaekJoon5585 추가" />
+    <MESSAGE value="feat: 백준 2217 로프&#10;- BaekJoon2217 추가" />
+    <MESSAGE value="feat: 백준 1789 수들의 합&#10;- BaekJoon1789 추가" />
+    <MESSAGE value="feat: 백준 10162 전자레인지&#10;- BaekJoon10162 추가" />
+    <MESSAGE value="feat: 백준 13305 주유소&#10;- BaekJoon13305 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 백준 13305 주유소&#10;- BaekJoon13305 추가" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
