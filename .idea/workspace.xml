@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49cedf7f-f247-4788-a86c-94132a98ec37" name="변경" comment="feat: 백준 1715 카드 정렬하기&#10;- BaekJoon1715 추가">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/baekjoon/greedy/BaekJoon1946.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/baekjoon/greedy/BaekJoon16953.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +17,18 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -36,38 +48,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/git/java/algorithm/algorithm/src/main/java/com/example/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/git/Java/Solved-Algorithm",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "C:/git/java/algorithm/algorithm/src/main/java/com/example/Main.java",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.example.baekjoon.greedy" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.BaekJoon1946">
-    <configuration name="BaekJoon10162" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.baekjoon.greedy.BaekJoon10162" />
-      <module name="algorithm.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.baekjoon.greedy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션.BaekJoon16953">
     <configuration name="BaekJoon10610" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.baekjoon.greedy.BaekJoon10610" />
       <module name="algorithm.main" />
@@ -83,6 +84,19 @@
     </configuration>
     <configuration name="BaekJoon13305" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.baekjoon.greedy.BaekJoon13305" />
+      <module name="algorithm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.baekjoon.greedy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaekJoon16953" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.baekjoon.greedy.BaekJoon16953" />
       <module name="algorithm.main" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.BaekJoon16953" />
         <item itemvalue="애플리케이션.BaekJoon1946" />
         <item itemvalue="애플리케이션.BaekJoon1715" />
         <item itemvalue="애플리케이션.BaekJoon10610" />
         <item itemvalue="애플리케이션.BaekJoon13305" />
-        <item itemvalue="애플리케이션.BaekJoon10162" />
       </list>
     </recent_temporary>
   </component>
@@ -150,6 +164,7 @@
       <workItem from="1685063053027" duration="20000" />
       <workItem from="1685114108036" duration="3888000" />
       <workItem from="1685193449727" duration="7467000" />
+      <workItem from="1685267545798" duration="3323000" />
     </task>
     <task id="LOCAL-00001" summary="feat: first commit">
       <created>1684422215400</created>
