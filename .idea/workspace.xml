@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49cedf7f-f247-4788-a86c-94132a98ec37" name="변경" comment="feat: 백준 1715 카드 정렬하기&#10;- BaekJoon1715 추가">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/baekjoon/greedy/BaekJoon1946.java" afterDir="false" />
+    <list default="true" id="49cedf7f-f247-4788-a86c-94132a98ec37" name="변경" comment="feat: 백준 16953 A -&gt; B&#10;- BaekJoon16953 추가">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/programmers/NotCompletedPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/programmers/Ponketmon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,19 +37,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/git/java/algorithm/algorithm/src/main/java/com/example/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "C:/git/java/algorithm/algorithm/src/main/java/com/example/Main.java",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.example.baekjoon.greedy" />
@@ -150,6 +152,7 @@
       <workItem from="1685063053027" duration="20000" />
       <workItem from="1685114108036" duration="3888000" />
       <workItem from="1685193449727" duration="7467000" />
+      <workItem from="1685460063549" duration="303000" />
     </task>
     <task id="LOCAL-00001" summary="feat: first commit">
       <created>1684422215400</created>
@@ -263,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685117026949</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="feat: 백준 16953 A -&gt; B&#10;- BaekJoon16953 추가">
+      <created>1685435973852</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1685435973852</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,7 +296,8 @@
     <MESSAGE value="feat: 백준 10610 30&#10;- BaekJoon10610 추가" />
     <MESSAGE value="fix: 일부 수정" />
     <MESSAGE value="feat: 백준 1715 카드 정렬하기&#10;- BaekJoon1715 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 백준 1715 카드 정렬하기&#10;- BaekJoon1715 추가" />
+    <MESSAGE value="feat: 백준 16953 A -&gt; B&#10;- BaekJoon16953 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 백준 16953 A -&gt; B&#10;- BaekJoon16953 추가" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
