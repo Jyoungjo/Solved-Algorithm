@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49cedf7f-f247-4788-a86c-94132a98ec37" name="변경" comment="feat: 백준 16953 A -&gt; B&#10;- BaekJoon16953 추가">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/programmers/NotCompletedPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/programmers/Ponketmon.java" afterDir="false" />
+    <list default="true" id="49cedf7f-f247-4788-a86c-94132a98ec37" name="변경" comment="feat: 프로그래머스 완주하지 못한 선수&#10;- NotCompletedPlayer 추가">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/baekjoon/graphsearch/BaekJoon1260.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/baekjoon/graphsearch/ex.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,28 +37,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "onboarding.tips.debug.path": "C:/git/java/algorithm/algorithm/src/main/java/com/example/Main.java",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/git/java/algorithm/algorithm/src/main/java/com/example/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.example.baekjoon.greedy" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.BaekJoon1946">
-    <configuration name="BaekJoon10162" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.baekjoon.greedy.BaekJoon10162" />
+  <component name="RunManager" selected="애플리케이션.BaekJoon1260">
+    <configuration name="BaekJoon10610" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.baekjoon.greedy.BaekJoon10610" />
       <module name="algorithm.main" />
       <extension name="coverage">
         <pattern>
@@ -70,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekJoon10610" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.baekjoon.greedy.BaekJoon10610" />
+    <configuration name="BaekJoon1260" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.baekjoon.graphsearch.BaekJoon1260" />
       <module name="algorithm.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.baekjoon.greedy.*" />
+          <option name="PATTERN" value="com.example.baekjoon.graphsearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.BaekJoon1260" />
         <item itemvalue="애플리케이션.BaekJoon1946" />
         <item itemvalue="애플리케이션.BaekJoon1715" />
         <item itemvalue="애플리케이션.BaekJoon10610" />
         <item itemvalue="애플리케이션.BaekJoon13305" />
-        <item itemvalue="애플리케이션.BaekJoon10162" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +152,9 @@
       <workItem from="1685063053027" duration="20000" />
       <workItem from="1685114108036" duration="3888000" />
       <workItem from="1685193449727" duration="7467000" />
-      <workItem from="1685460063549" duration="303000" />
+      <workItem from="1685460063549" duration="470000" />
+      <workItem from="1685497781435" duration="9000" />
+      <workItem from="1685545944378" duration="3864000" />
     </task>
     <task id="LOCAL-00001" summary="feat: first commit">
       <created>1684422215400</created>
@@ -273,7 +275,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685435973852</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="feat: 프로그래머스 폰켓몬&#10;- Ponketmon 추가">
+      <created>1685460463124</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1685460463124</updated>
+    </task>
+    <task id="LOCAL-00019" summary="feat: 프로그래머스 완주하지 못한 선수&#10;- NotCompletedPlayer 추가">
+      <created>1685460496204</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1685460496204</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -297,7 +313,9 @@
     <MESSAGE value="fix: 일부 수정" />
     <MESSAGE value="feat: 백준 1715 카드 정렬하기&#10;- BaekJoon1715 추가" />
     <MESSAGE value="feat: 백준 16953 A -&gt; B&#10;- BaekJoon16953 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 백준 16953 A -&gt; B&#10;- BaekJoon16953 추가" />
+    <MESSAGE value="feat: 프로그래머스 폰켓몬&#10;- Ponketmon 추가" />
+    <MESSAGE value="feat: 프로그래머스 완주하지 못한 선수&#10;- NotCompletedPlayer 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 프로그래머스 완주하지 못한 선수&#10;- NotCompletedPlayer 추가" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
