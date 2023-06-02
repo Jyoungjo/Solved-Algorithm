@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49cedf7f-f247-4788-a86c-94132a98ec37" name="변경" comment="feat: 프로그래머스 완주하지 못한 선수&#10;- NotCompletedPlayer 추가">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/baekjoon/graphsearch/BaekJoon1260.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/baekjoon/graphsearch/ex.java" afterDir="false" />
+    <list default="true" id="49cedf7f-f247-4788-a86c-94132a98ec37" name="변경" comment="feat: 백준 1260 DFS와 BFS&#10;- BaekJoon1260 추가">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/programmers/MoreSpicy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -154,7 +153,10 @@
       <workItem from="1685193449727" duration="7467000" />
       <workItem from="1685460063549" duration="470000" />
       <workItem from="1685497781435" duration="9000" />
-      <workItem from="1685545944378" duration="3864000" />
+      <workItem from="1685545944378" duration="5586000" />
+      <workItem from="1685578275458" duration="10000" />
+      <workItem from="1685627695950" duration="15000" />
+      <workItem from="1685695287547" duration="3739000" />
     </task>
     <task id="LOCAL-00001" summary="feat: first commit">
       <created>1684422215400</created>
@@ -289,7 +291,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685460496204</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="feat: 백준 1260 DFS와 BFS&#10;- BaekJoon1260 추가">
+      <created>1685550093882</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1685550093882</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -315,7 +324,8 @@
     <MESSAGE value="feat: 백준 16953 A -&gt; B&#10;- BaekJoon16953 추가" />
     <MESSAGE value="feat: 프로그래머스 폰켓몬&#10;- Ponketmon 추가" />
     <MESSAGE value="feat: 프로그래머스 완주하지 못한 선수&#10;- NotCompletedPlayer 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 프로그래머스 완주하지 못한 선수&#10;- NotCompletedPlayer 추가" />
+    <MESSAGE value="feat: 백준 1260 DFS와 BFS&#10;- BaekJoon1260 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 백준 1260 DFS와 BFS&#10;- BaekJoon1260 추가" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
