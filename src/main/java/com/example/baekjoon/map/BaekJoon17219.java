@@ -1,36 +1,31 @@
-package com.example;
+package com.example.baekjoon.map;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
-public class BaekJoon1764 {
-    // 백준 1764 듣보잡
+public class BaekJoon17219 {
+    // 백준 17219 비밀번호 찾기
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
         int N = Integer.parseInt(st.nextToken());
         int M = Integer.parseInt(st.nextToken());
 
-        Set<String> set = new HashSet<>();
+        Map<String, String> map = new HashMap<>();
 
         for (int i = 0; i < N; i++) {
-            String name = br.readLine();
-            set.add(name);
+            st = new StringTokenizer(br.readLine());
+            map.put(st.nextToken(), st.nextToken());
         }
 
-        List<String> list = new ArrayList<>();
+        StringBuilder sb = new StringBuilder();
         for (int i = 0; i < M; i++) {
-            String name = br.readLine();
-            if (set.contains(name)) list.add(name);
+            String key = br.readLine();
+            if (map.containsKey(key)) sb.append(map.get(key)).append("\n");
         }
 
-        Collections.sort(list);
-
-        System.out.println(list.size());
-        for (String s : list) {
-            System.out.println(s);
-        }
+        System.out.print(sb);
     }
 }
