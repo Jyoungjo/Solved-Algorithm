@@ -2,7 +2,7 @@ package com.example.programmers;
 
 import java.util.HashSet;
 
-public class Ponketmon {
+public class Programmers1845 {
     public int solution(int[] nums) {
         int max = nums.length / 2;
 

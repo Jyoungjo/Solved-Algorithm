@@ -2,7 +2,7 @@ package com.example.programmers;
 
 import java.util.HashMap;
 
-class NotCompletedPlayer {
+class Programmers42576 {
     public String solution(String[] participant, String[] completion) {
         String answer = "";
         HashMap<String, Integer> comp = new HashMap<>();

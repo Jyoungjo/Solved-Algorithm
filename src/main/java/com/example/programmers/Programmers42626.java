@@ -2,7 +2,7 @@ package com.example.programmers;
 
 import java.util.PriorityQueue;
 
-public class MoreSpicy {
+public class Programmers42626 {
     public int solution(int[] scoville, int K) {
         PriorityQueue<Integer> mixScoville = new PriorityQueue<>();
         int answer = 0;
